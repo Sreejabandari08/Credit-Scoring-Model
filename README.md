@@ -1,3 +1,5 @@
+## Objective
+Predict whether a person is creditworthy using machine learning.
 ## Technologies Used
 - Python
 - Pandas
